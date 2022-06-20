@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BITIRME_PROJESI", "BITIRME_PROJESI\BITIRME_PROJESI.csproj", "{4F832048-535D-480E-81B4-9ADB3F4DE55A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F832048-535D-480E-81B4-9ADB3F4DE55A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F832048-535D-480E-81B4-9ADB3F4DE55A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F832048-535D-480E-81B4-9ADB3F4DE55A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F832048-535D-480E-81B4-9ADB3F4DE55A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF80B26F-3698-4BC3-B27F-D35AC1880C2F}
+	EndGlobalSection
+EndGlobal
